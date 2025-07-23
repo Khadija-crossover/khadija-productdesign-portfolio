@@ -1,19 +1,36 @@
-# Case Study: Brake System Product Strategy
+# 🚘 Case Study: Brake System Product Strategy
 
-**Context:**  
-As part of Bosch's active safety team, I collaborated with cross-functional teams to align customer needs with brake system features.
+**🏢 Organization:**  
+Bosch Global Software Technologies
 
-**Key Actions:**
-- Translated customer pain points into user stories.
-- Created feature-level roadmaps for regenerative braking.
-- Recommended optimizations from system performance data.
+---
 
-**Tools Used:**  
-JIRA, IBM DOORS, stakeholder review boards
+## 📋 Summary  
+As part of the active safety team, I collaborated across departments to align customer needs with regenerative braking system design and development.
 
-**Impact:**
-- Improved roadmap clarity and alignment with stakeholder expectations.
-- 30% increase in delivery efficiency via ASPICE-aligned requirement tracking.
+---
 
-**Reflection:**  
-This project strengthened my skills in product prioritization and strategic planning under Agile.
+## 🔧 Key Responsibilities  
+- 📌 Translated customer pain points into user stories  
+- 🛣️ Created feature-level roadmaps for regenerative braking
+- 📊 Analyzed system data to recommend design optimizations
+
+---
+
+## 🛠 Tools & Process  
+- JIRA for backlog and sprint tracking  
+- IBM DOORS for requirements traceability  
+- Agile ceremonies for stakeholder alignment
+
+---
+
+## ✅ Impact  
+- 🎯 Enhanced roadmap clarity for stakeholders  
+- 📈 Achieved 30% improvement in delivery efficiency through ASPICE-aligned tracking  
+- 🧩 Enabled faster product iterations based on user feedback
+
+---
+
+## 💡 Reflection  
+This experience taught me how to combine technical depth with product strategy to enhance team delivery and customer experience.
+
