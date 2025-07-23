@@ -1,4 +1,4 @@
-# 🚘 Case Study: Brake System Product Strategy
+# 🚘 Case Study: Regenerative Brake System Product Strategy
 
 **🏢 Organization:**  
 Bosch Global Software Technologies
