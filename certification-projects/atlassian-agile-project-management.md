@@ -1,4 +1,4 @@
-# Certification Project: Atlassian Agile Project Management
+# 🧠 Certification Project: Atlassian Agile Project Management
 
 **Certification:**  
 Atlassian Agile Project Management Professional Certificate – LinkedIn Learning, May 2025
