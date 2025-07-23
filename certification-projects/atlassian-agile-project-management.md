@@ -15,7 +15,7 @@ I applied Agile principles to simulate project management for a hypothetical cro
 
 ## 🔧 Key Activities
 
-- Created epics, user stories, and sub-tasks in JIRA for backlog grooming  
+- Created epics, user stories, and sub-tasks in JIRA 
 - Designed and managed a Kanban board for visualizing work in progress  
 - Configured sprint boards and led mock sprint planning and retrospectives  
 - Used velocity charts and burndown reports to monitor sprint performance  
@@ -42,4 +42,4 @@ I applied Agile principles to simulate project management for a hypothetical cro
 
 ## 💡 Reflection
 
-This certification gave me a robust foundation in Agile practices and practical tool usage that I’ve already applied in live projects. It also reinforced my confidence in working as a bridge between product owners, stakeholders, and engineering teams.
+This certification gave me a robust foundation in Agile practices and practical tool usage that I’ve already applied in live projects. 
