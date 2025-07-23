@@ -1,11 +1,11 @@
 # 🧠 Certification Project: Atlassian Agile Project Management
 
-**Certification:**  
+**🎓 Certification:**  
 Atlassian Agile Project Management Professional Certificate – LinkedIn Learning, May 2025
 
 ---
 
-## 🎯 Project Summary
+## 📋 Summary
 
 This course provided hands-on training in Agile methodologies, emphasizing Scrum and Kanban practices using Atlassian tools like JIRA and Confluence.
 
@@ -23,7 +23,7 @@ I applied Agile principles to simulate project management for a hypothetical cro
 
 ---
 
-## ✅ Tools Used
+## 🛠  Tools Used
 
 - Atlassian JIRA  
 - Atlassian Confluence  
@@ -32,7 +32,7 @@ I applied Agile principles to simulate project management for a hypothetical cro
 
 ---
 
-## 📈 Outcome
+## ✅ Outcome
 
 - Strengthened practical understanding of how product and engineering teams collaborate in an Agile environment  
 - Built confidence in planning sprints, tracking performance, and managing backlogs  
