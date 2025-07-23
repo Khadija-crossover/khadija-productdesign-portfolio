@@ -13,7 +13,7 @@ As part of the active safety team, I collaborated across departments to align cu
 ## 🔧 Key Responsibilities  
 - 📌 Translated customer pain points into user stories  
 - 🛣️ Created feature-level roadmaps for regenerative braking
-- 📊 Analyzed system data to recommend design optimizations
+- 📊 Analyzed system data to recommend design optimizations and simulation outputs
 
 ---
 
@@ -21,6 +21,7 @@ As part of the active safety team, I collaborated across departments to align cu
 - JIRA for backlog and sprint tracking  
 - IBM DOORS for requirements traceability  
 - Agile ceremonies for stakeholder alignment
+- MATLAB
 
 ---
 
