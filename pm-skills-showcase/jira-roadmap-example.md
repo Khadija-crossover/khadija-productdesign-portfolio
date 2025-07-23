@@ -1,21 +1,37 @@
-# PM Skills Showcase: JIRA Roadmap and Sprint Planning
+# 📊 PM Skills Showcase: JIRA Roadmap & Sprint Planning
 
-**Context:**  
-While leading development efforts for regenerative braking systems at Bosch, I actively contributed to sprint planning and backlog grooming using JIRA.
+**🏢 Role:**  
+Senior Engineer (Product-facing), Bosch Global Software Technologies
 
-**Key Activities:**
-- Created and managed product backlogs for system features.
-- Defined sprint goals and user stories based on stakeholder input.
-- Tracked progress and priorities using Kanban views and dashboards.
+---
 
-**Tools Used:**
-- JIRA for backlog management and sprint planning
-- IBM DOORS for requirements traceability
+## 📋 Summary  
+I led the effort to manage sprint planning and product backlog for regenerative braking features using JIRA, aligned with Bosch’s Agile framework.
 
-**Impact:**
-- Ensured timely and transparent communication with development teams and stakeholders.
-- Improved sprint velocity by 15% through clearly defined stories and acceptance criteria.
-- Helped align sprint cycles with roadmap milestones and release planning.
+---
 
-**Reflection:**  
-Using JIRA not only improved team collaboration but also gave me deep insights into how agile product teams balance scope, velocity, and stakeholder value.
+## 🔧 Activities  
+- 🗃️ Created epics and user stories from stakeholder requirements  
+- 🧭 Defined sprint goals and acceptance criteria  
+- 📈 Tracked sprint progress using velocity charts and burndown metrics  
+- 📅 Tracked progress and priorities using Kanban views and dashboards.
+
+---
+
+## 🛠 Tools Used  
+- JIRA for Agile project management  
+- IBM DOORS for requirements linking  
+- Excel & Confluence for reporting and documentation
+
+---
+
+## ✅ Impact  
+- ⏱️ Increased sprint efficiency by 15%  
+- 🔄 Improved backlog clarity and sprint predictability  
+- 🤝 Enhanced transparency between development and product teams
+
+---
+
+## 💡 Reflection  
+Working hands-on with JIRA helped me build a strong foundation in agile planning, gave me deep insights into how agile product teams balance scope, and connecting roadmap vision to daily execution.
+
