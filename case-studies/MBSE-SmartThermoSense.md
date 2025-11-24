@@ -19,10 +19,10 @@ Here are screenshots of the SysML diagrams I created in IBM Rhapsody:
 | Diagram | Description |
 |---|---|
 | **Block Definition Diagram (BDD)** | Defines the main system blocks: TempSensor, MCU, Display, Buzzer, Battery. <br><br>![BDD Diagram](./BDD.jpg) |
-| **Internal Block Diagram (IBD)** | Shows how data and power flow: ports, connectors, and interactions. <br><br>![IBD Diagram](case-studies/IBD.jpg) |
-| **Use Case Diagram** | Key use cases involving Patient: measurement, display, alert, sleep. <br><br>![Use Case Diagram](./path/to/your/UseCase_screenshot.jpg) |
-| **State Machine / Statechart** | State logic: Idle → Measure → Transmit → Alert → Sleep. <br><br>![State Machine Diagram](./path/to/your/Statechart_screenshot.jpg) |
-| **Sequence Diagram** | Message flow: Patient → Sensor → MCU → Display / Buzzer. <br><br>![Sequence Diagram](./path/to/your/Sequence_screenshot.jpg) |
+| **Internal Block Diagram (IBD)** | Shows how data and power flow: ports, connectors, and interactions. <br><br>![IBD Diagram](./IBD.jpg) |
+| **Use Case Diagram** | Key use cases involving Patient: measurement, display, alert, sleep. <br><br>![Use Case Diagram](./UsecaseDiag.jpg) |
+| **State Machine / Statechart** | State logic: Idle → Measure → Transmit → Alert → Sleep. <br><br>![State Machine Diagram](./StateDiag.jpg) |
+| **Sequence Diagram** | Message flow: Patient → Sensor → MCU → Display / Buzzer. <br><br>![Sequence Diagram](./SeqDiag.jpg) |
 
 > **Note:** Replace each `./path/to/your/...` with the correct relative path where you upload your `.jpg` files in your GitHub repo.
 
