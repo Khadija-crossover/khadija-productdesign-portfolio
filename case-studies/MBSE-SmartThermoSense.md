@@ -44,7 +44,7 @@ Here are screenshots of the SysML diagrams I created in IBM Rhapsody:
 
 ---
 
-## 📋 Test Planning
+## 📋 Test Planning ( Will be added later- Future scope )
 
 - I defined test cases for:  
   1. Accuracy of temperature measurement  
