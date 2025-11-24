@@ -19,7 +19,7 @@ Here are screenshots of the SysML diagrams I created in IBM Rhapsody:
 | Diagram | Description |
 |---|---|
 | **Block Definition Diagram (BDD)** | Defines the main system blocks: TempSensor, MCU, Display, Buzzer, Battery. <br><br>![BDD Diagram](case-studies/BDD.jpg) |
-| **Internal Block Diagram (IBD)** | Shows how data and power flow: ports, connectors, and interactions. <br><br>![IBD Diagram](./path/to/your/IBD_screenshot.jpg) |
+| **Internal Block Diagram (IBD)** | Shows how data and power flow: ports, connectors, and interactions. <br><br>![IBD Diagram](case-studies/IBD.jpg) |
 | **Use Case Diagram** | Key use cases involving Patient: measurement, display, alert, sleep. <br><br>![Use Case Diagram](./path/to/your/UseCase_screenshot.jpg) |
 | **State Machine / Statechart** | State logic: Idle → Measure → Transmit → Alert → Sleep. <br><br>![State Machine Diagram](./path/to/your/Statechart_screenshot.jpg) |
 | **Sequence Diagram** | Message flow: Patient → Sensor → MCU → Display / Buzzer. <br><br>![Sequence Diagram](./path/to/your/Sequence_screenshot.jpg) |
