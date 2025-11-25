@@ -24,8 +24,6 @@ Here are screenshots of the SysML diagrams I created in IBM Rhapsody:
 | **State Machine / Statechart** | State logic: Idle → Measure → Transmit → Alert → Sleep. <br><br>![State Machine Diagram](./StateDiag.jpg) |
 | **Sequence Diagram** | Message flow: Patient → Sensor → MCU → Display / Buzzer. <br><br>![Sequence Diagram](./SeqDiag.jpg) |
 
-> **Note:** Replace each `./path/to/your/...` with the correct relative path where you upload your `.jpg` files in your GitHub repo.
-
 ---
 
 ## ✅ Requirements & Traceability
